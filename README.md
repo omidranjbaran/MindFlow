@@ -20,6 +20,6 @@ Make sure you have the following installed:
 - **Git** for version control  
 
 ### **Installation**
-1️⃣ Clone the repository:  
+ Clone the repository:  
 ```sh
 git clone https://github.com/omidranjbaran/MindFlow.git
